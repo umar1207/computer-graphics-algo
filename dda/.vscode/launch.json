@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/umarkhan/Docs/Study_material/Semester6/cg/computer_graphics_algos/dda",
+      "program": "/Users/umarkhan/Docs/Study_material/Semester6/cg/computer_graphics_algos/dda/build/Debug/outDebug"
+    }
+  ]
+}
